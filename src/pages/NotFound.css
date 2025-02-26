@@ -1,0 +1,12 @@
+.containerNotFound {
+  height: 100vh;
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  flex-direction: column;
+  color: var(--primary-text-color);
+}
+
+.containerNotFound h1 {
+  font-weight: 400;
+}
